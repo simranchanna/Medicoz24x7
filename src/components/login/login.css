@@ -1,0 +1,35 @@
+.container {
+  padding: 5% 15%;
+}
+.title {
+  padding: 5%;
+}
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+  font-family: "Sansita Swashed", cursive;
+}
+h2 {
+  color: gray;
+}
+.box {
+  background-color: #fff;
+  text-align: center;
+  width: 25%;
+  padding: 10px;
+  position: absolute;
+  top: 15%;
+  right: 20%;
+}
+a {
+  color: #f54291;
+  text-decoration: inherit;
+}
+hr {
+  background-color: #dadde1;
+  height: 1px;
+  border: 0;
+}
+#lname {
+  margin-left: 30px;
+}

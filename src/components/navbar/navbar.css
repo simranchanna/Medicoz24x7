@@ -1,0 +1,11 @@
+h1 {
+  font-weight: bold;
+  font-size: 2rem;
+  font-family: "Sansita Swashed", cursive;
+}
+.arrow {
+  margin-bottom: 50px;
+}
+.arrow:hover {
+  color: #f54291;
+}
